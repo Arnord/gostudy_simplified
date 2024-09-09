@@ -4,6 +4,8 @@ golang基础教程-快速入门go语言
 
 golang语言介绍，安装部署，运行第一个程序及基础介绍，工具介绍，go module，基础语法，常用数据结构，函数介绍，指针，结构体，接口，错误处理，协程，通道，通道选择器及常用函数。
 
+改自goflyfox老师的教程，原作者地址：[https://gitee.com/goflyfox/gostudy](https://gitee.com/goflyfox/gostudy)
+
 ## 教程目录
 
 * [01-03.golang安装部署.md](doc/01-03.golang安装部署.md)
@@ -19,18 +21,12 @@ golang语言介绍，安装部署，运行第一个程序及基础介绍，工�
 
 ## 代码地址
 
-* github：[https://github.com/goflyfox/gostudy](https://github.com/goflyfox/gostudy)
-* gitee：[https://gitee.com/goflyfox/gostudy](https://gitee.com/goflyfox/gostudy)
+* github：[https://github.com/Arnord/gostudy_simplified](https://github.com/Arnord/gostudy_simplified)
+* gitee[原作者]：[https://gitee.com/goflyfox/gostudy](https://gitee.com/goflyfox/gostudy) 
 
-## 教程视频
+## 教程视频[原作者]
 
 * 腾讯课堂教程地址：[golang基础教程-快速入门go语言](https://ke.qq.com/course/2585401?taid=9426843331949369&tuin=13b4f9bd)
 * bilibili教程地址：[golang基础教程-快速入门go语言](https://www.bilibili.com/video/av94410029)
-* 西瓜视频教程地址：[golang基础教程-快速入门go语言](https://www.ixigua.com/pseries/6809291194665796100/)
 
-## 其他说明
-
-1. QQ交流群：47919644
-2. 对应教程编号前缀目录就是对应课程示例源码
-3. 文件名这里不建议参考，go源码文件尽量都用英文
 
